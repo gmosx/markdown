@@ -1,0 +1,11 @@
+{
+    "name": "markdown",
+    "author": "John Fraser",
+    "contributors": [
+        "John Gruber",
+        "George Moschovitis"
+    ],    
+    "dependencies": [],
+    "js": "lib",
+}
+
