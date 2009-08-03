@@ -3,7 +3,8 @@
     "author": "John Fraser",
     "contributors": [
         "John Gruber",
-        "George Moschovitis"
+        "George Moschovitis",
+	"Kris Kowal"
     ],    
     "dependencies": [],
     "js": "lib",
