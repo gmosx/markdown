@@ -6,7 +6,7 @@
     "contributors": [
         "John Gruber",
         "George Moschovitis",
-	"Kris Kowal"
+    	"Kris Kowal"
     ],    
     "dependencies": [],
     "lib": "lib",
